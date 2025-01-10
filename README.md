@@ -39,4 +39,4 @@
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-2. Đồ án Nhóm: Recurrent Neural Networks (RNNs), and the Exploding and Vanishing Gradient Problems
+Đồ án Nhóm: Recurrent Neural Networks (RNNs), and the Exploding and Vanishing Gradient Problems
