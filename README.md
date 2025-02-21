@@ -21,7 +21,7 @@
 * **Tên môn học**: Toán cho Khoa học máy tính - Mathematics for CS
 * **Mã môn học**: CS115
 * **Lớp học**: CS115.P13
-* **Năm học**: 2023-2024
+* **Năm học**: 2024-2025
 
 
 ## GIẢNG VIÊN HƯỚNG DẪN
